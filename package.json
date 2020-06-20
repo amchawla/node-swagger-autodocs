@@ -1,0 +1,26 @@
+{
+  "name": "swagger-autodoc",
+  "version": "1.0.0",
+  "description": "automatic generation of docs using swagger and node",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "swagger-jsdoc": "^4.0.0",
+    "swagger-ui-express": "^4.1.4"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amchawla/node-swagger-autodocs.git"
+  },
+  "bugs": {
+    "url": "https://github.com/amchawla/node-swagger-autodocs/issues"
+  },
+  "homepage": "https://github.com/amchawla/node-swagger-autodocs#readme"
+}
